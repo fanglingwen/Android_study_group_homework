@@ -66,6 +66,7 @@ public class QuizActivity extends Activity {
         });
         updateQuestion();
     }
+
     @Override
     public void onStart() {
         super.onStart();
